@@ -9,10 +9,17 @@ The way to work with most of the techniques is based on some generic data struct
 The way to use them should be clearly explained in a wiki or in a specific tutorial-documentation.
 
 The main subject of the MUIA are:
-  Machine Learning
-  Bayesian Networks
-  Desicions Help Systems
-  Metaheuristics
-  Natural Language Processing
-  Simulators
-  Biomedical Informatics
+
+  * Machine Learning
+
+  * Bayesian Networks
+
+  * Desicions Help Systems
+
+  * Metaheuristics
+
+  * Natural Language Processing
+
+  * Simulators
+
+  * Biomedical Informatics
